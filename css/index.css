@@ -1,0 +1,14 @@
+.fundo {
+  background-color: rgb(243, 6, 85);
+  font-family: 'Arial Narrow', Arial, sans-serif
+}
+.texto1 {
+  font-family: 'Segoe UI', Tahoma,Geneva, Verdana, sans-serif;
+  background-color: rgb(247, 70, 0);
+  font-size: 20px;
+}
+.texto2 { 
+  font-family: sans-serif;
+  font-size: 10px;
+  background-color: rgb(0, 255, 204);
+}
